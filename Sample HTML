@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html"; charset="UTF-8" />
+	<meta name="viewport" content="width=device-width"/>
+	<!--   disable page scalling on mobila deivces -->
+	
+	<title>Example Page</title>
+	
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+	<div class="containter">
+		<header>
+			<h1>This is a sample page using CSS</h1>
+			<p>
+			Intended for demonstration purposes.
+			</p>
+			
+			<aside>
+			<nav>
+				<ul>
+					<li> <a href="#illustration">Illustration </a> </li>
+					<li> <a href="#citation">Citation </a> </li>
+					<li> <a href="#argument">Argument </a></li>
+					<li> <a href="#conclusion">Conclusion </a> </li>
+				</ul>
+			</nav>
+			</aside>
+		</header>
+		
+		<article>
+			<section id="intro">
+				<h1>Introduction</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non tincidunt lacus. Integer condimentum accumsan tellus, in laoreet diam dignissim id. Maecenas dignissim est tempor justo hendrerit ultricies. Cras sed ligula nec sem hendrerit vestibulum et non sapien. Pellentesque varius auctor ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ut volutpat nulla. Aliquam erat volutpat. Aliquam suscipit tincidunt tortor, vel condimentum purus feugiat eu. Nam ullamcorper sapien vitae tellus dapibus ut hendrerit ante tempus. Nulla tristique malesuada tortor, at vestibulum dui varius quis. Sed non nisi mollis eros dictum porta quis sed erat. Mauris aliquet tellus a purus gravida fringilla.
+				</p>
+			</section>
+			
+			<section id="illustration">
+				<h1>Illustration</h1>
+				<p>
+					Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla nec massa metus.
+				</p>
+			</section>
+			
+			<section id="citation">
+				<h1>Citation</h1>
+				<p>
+				Duis pellentesque dignissim neque non pharetra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+				</p>
+			</section>
+			
+			<section id="argument">
+				<h1>Argument</h1>
+				<p>
+				Duis pellentesque dignissim neque non pharetra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+				</P>
+			</section>
+			
+			<section id="conclusion">
+				<h1>Conclusion</h1>
+				<p>
+				Duis pellentesque dignissim neque non pharetra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+				</p>
+			</section>
+			
+		</article>
+		
+		<footer>
+			<p>
+				&copy;2013. All rights reserved.
+			</p>
+		</footer>
+	</div>
+</body>
+
+</html>
